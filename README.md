@@ -43,6 +43,7 @@ I decided to make the model bit more interesting by fitting our model with ‘n-
 Fitting the model
 
 After the pre-processing part, the model has to be fitted. For fitting this model, I have decided to work with Logistic Regression and Multinomial Naive Bayes Algorithm. I would like to compare both the models.
+
 -> Multinomial Naive Bayes Algorithm
 
 Text Processing works good with Multinomial NB Algorithm. So, I decided to apply Multinomial NB .
